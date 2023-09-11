@@ -7,6 +7,7 @@ class FizzBuzz {
 
 //        for (int i = 1; i < 100; i++)
           int i = 0;
+          int b = 1;
           while (i < 100){
               i = doFizzBuzz(i);
           }
